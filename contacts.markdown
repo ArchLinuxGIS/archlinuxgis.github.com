@@ -1,6 +1,6 @@
 ---
 title: Contacts
-layout: default
+layout: single
 ---
 
 If you are trying to report a problem, please use the [GitHub Issue tracker](https://github.com/ArchLinuxGIS/archlinuxgis/issues). 

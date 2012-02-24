@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: single
 ---
 
 ### Welcome to ArchLinux GIS repositories! ###
